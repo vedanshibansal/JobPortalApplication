@@ -18,17 +18,21 @@ The Job Portal Application is designed to efficiently connect job seekers with p
 - **Secure Sign-Up/Login:** Utilizes Spring Security to ensure secure authentication for all users. Job seekers and employers can create accounts and log in to access personalized features.
 - **Role-Based Access Control:** Differentiates user experience based on role (job seeker vs. employer), ensuring users only access features pertinent to their objectives.
 
-###Login Page
+
+### Login Page
 ![Login Page](https://github.com/vedanshibansal/JobPortalApplication/blob/master/photos/CandidateLogin.png "Login Page for Job Seeker of Job Portal Application")
 ![Login Page](https://github.com/vedanshibansal/JobPortalApplication/blob/master/photos/Recruiter_login.png "Login Page for Job Applier of Job Portal Application")
+
 
 ### Profile Management
 - **Customizable User Profiles:** Allows job seekers to create and edit detailed profiles showcasing their skills, experiences, and educational background.
 - **Employer Profiles:** Enables employers to create profiles displaying their company information, culture, and open positions.
 
+
 ### Profiles 
 ![User profile](https://github.com/vedanshibansal/JobPortalApplication/blob/master/photos/Candidate_Profile_SetUp.png "Candidate Profile")
 ![User profile](https://github.com/vedanshibansal/JobPortalApplication/blob/master/photos/Recruiter_Profile.png "Recruiter Profile")
+
 
 ### Job Postings
 - **Posting Jobs:** Employers can post job listings, specifying job descriptions, required skills, and preferred qualifications.
